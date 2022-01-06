@@ -6,13 +6,13 @@ const routes = require("./routes");
 const { authMiddleware } = require("./utils/auth");
 
 //import apollo server
-const { ApolloServer } = required("apollo-server-express");
+const { ApolloServer } = require("apollo-server-express");
 
 //import typedefs and resolvers
-const { typeDefs, resolvers } = require(""); //link schemas here
+const { typeDefs, resolvers } = require("./schemas"); //link schemas here
 
 //apollo server
-const app = new ApolloServer({
+const server = new ApolloServer({
   typeDefs,
   resolvers,
   context: authMiddleware,
