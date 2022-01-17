@@ -7,8 +7,8 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [Screenshots](#screenshots)
   - [Contact Info](#contact-info)
-
   ## Description:
   The Book Search Engine App was developed from starter code with a fully functioning Google Books API search engine with a RESTful API.  It was refactored to be a GraphQL API built with Apollo Server.  Users can search for books and save them to their profile and view the book details.
 
