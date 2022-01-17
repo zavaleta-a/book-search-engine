@@ -27,7 +27,13 @@
 
   ## Questions:
   For any questions or comments, please feel free to contact me at the email provided below.  Thank you!
+  
+  ## Screenshots
+  ![bse-screenshot-1](https://user-images.githubusercontent.com/84590140/149686749-58b9ab49-b5e1-4046-bfc6-e578099fb844.jpg)
+  ![bse-screenshot-2](https://user-images.githubusercontent.com/84590140/149686736-eca7055c-3aee-44b7-8465-2c74d2612e4e.jpg)
 
+
+  
   ## Contact Info:
   - GitHub: [zavaleta-a](https://github.com/zavaleta-a)
   - Repository: [https://github.com/zavaleta-a/book-search-engine]https://github.com/https://github.com/zavaleta-a/book-search-engine)
